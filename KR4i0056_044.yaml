@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0056/krp/v1/juan/44
+seq: 44
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0056_WYG_044-1a, image: WYG1483/WYG1483-0361c.png}
+body:
+  text: 厯代詩話卷四十四歸安吳景旭撰已集杜陵譜系中年譜厯代詩話卷四十四
+  hash: sha256:cd38c6fcb1042c40bcf47d8e7edf2e13464c55e1d76473fd5656e9f1b292ab97
+metadata:
+  title: 歷代詩話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:46:21.450345'
+  juan_title: 卷四十四
+  source:
+    repository: kanripo
+    path: KR4i0056/KR4i0056_044.txt
+hash: sha256:ab6042dc9d31c4799dc43c15578b3f51519b8a64ad9f30724c4b38a88d85fb97

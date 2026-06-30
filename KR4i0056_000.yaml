@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0056/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0056_WYG_000-1a, image: WYG1483/WYG1483-0001a.png}
+body:
+  text: 厯代詩話詩文評類提要臣等謹案厯代詩話八十卷國朝吳景旭撰景旭字旦生歸安人是書前後無序跋而中有塗乙之處蓋猶初定之藁分為十集以十千為目甲集六卷皆論三百篇乙集六卷皆論楚詞丙集九卷皆論賦丁集六卷皆論古樂府戊集六卷皆論漢魏六朝詩已集十二卷前九卷論杜詩後三卷為杜陵譜系庚集九卷皆論唐詩辛集七卷皆論宋詩壬集十卷前三卷論金詩後七卷論元詩癸集九卷皆論明詩其體例仿陳耀文學林就正每條各立標題先引舊說于前後雜采諸書以相考證或辨其是非或參其異同或引伸其未竟或補綴其所遺皆下一格書之有舊說所無而景旭自立論者則惟列本詩于前而以已意發揮之雖皆採自詩話說部不盡根柢于原書又嗜博貪多往往借題曼衍失于芟剃然取材繁富能以衆說互相鈎貫以參考其得失于雜家之言亦可謂淹貫者矣較以古人固不失苕溪漁隱叢話之亞也乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:67f7a47f1fcd2a750daf5b9fa64d72dcae3d0703b10de5cba89053702ee3447b
+metadata:
+  title: 歷代詩話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:46:21.450345'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0056/KR4i0056_000.txt
+hash: sha256:ab7c6e90b00a8b91986658ae2278604ad5ba7e7a71906f1a3e1b7c628086eaf7
