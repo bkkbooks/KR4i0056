@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4i0056_WYG_044-1a, image: WYG1483/WYG1483-0361c.png}
 body:
-  text: 厯代詩話卷四十四歸安吳景旭撰已集杜陵譜系中年譜厯代詩話卷四十四
-  hash: sha256:cd38c6fcb1042c40bcf47d8e7edf2e13464c55e1d76473fd5656e9f1b292ab97
+  text: 厯代詩話巻四十四歸安呉景旭撰已集杜陵譜系中年譜厯代詩話巻四十四
+  hash: sha256:b75bee750eedb920818f81021a32ee4f73873272ffa3cc9b1d0b04cba6e8c45d
 metadata:
   title: 歷代詩話
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4i0056/KR4i0056_044.txt
-hash: sha256:ab6042dc9d31c4799dc43c15578b3f51519b8a64ad9f30724c4b38a88d85fb97
+hash: sha256:6dc0f2b18ff89e6a7c0550fd11810d34742e8359229d4ce352bb7002e17f9bbe
